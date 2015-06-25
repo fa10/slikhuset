@@ -19,7 +19,6 @@ Route::get('auth/register', 'Auth\AuthController@getRegister');
 Route::post('auth/register', 'Auth\AuthController@postRegister');
 
 
-
 Route::get('admin/nyheder', ['as' => 'admin_post_index', 'uses' => 'PostController@index']);
 Route::get('admin/nyheder/opret', ['as' => 'admin_post_create', 'uses' => 'PostController@create']);
 Route::post('admin/nyheder/save', ['as' => 'admin_post_store', 'uses' => 'PostController@store']);
