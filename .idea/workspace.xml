@@ -22,11 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="app.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/config/app.php">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.66184974">
-              <caret line="80" column="48" selection-start-line="80" selection-start-column="48" selection-end-line="80" selection-end-column="48" />
+            <state vertical-scroll-proportion="0.081203006">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -603,13 +603,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitattributes">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.036437247">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6012146">
@@ -638,14 +631,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.31474105">
           <caret line="581" column="1" selection-start-line="581" selection-start-column="1" selection-end-line="581" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.081203006">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -699,6 +684,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.66184974">
           <caret line="80" column="48" selection-start-line="80" selection-start-column="48" selection-end-line="80" selection-end-column="48" />
+          <folding>
+            <marker date="1435282875467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1435282875467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1435282875467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1435282875467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1435282875467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1435282875467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1435282875467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1435282875467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1435282875467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1435282875467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1435282875467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1435282875467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1435282875467" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1435282875467" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.05202312">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.081203006">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
