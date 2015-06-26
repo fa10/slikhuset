@@ -61,9 +61,10 @@
             </div>
 
             <div class="col-md-6 jt_col column_container">
-                <div class="voffset40"></div>
                 <div id="owl-about" class="owl-carousel">
-
+                    <div class="item">
+                        <img src="/images/slider/slikhuset_inde.jpg" alt=""/>
+                    </div>
                 </div>
             </div>
         </div>

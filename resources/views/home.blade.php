@@ -4,9 +4,14 @@
     <section id="home-slider">
         <div class="overlay"></div>
         <div id="owl-main" class="owl-carousel">
-            <div class="item"><img src="images/slider/softice_slikhuset.png" alt="Slide 02"></div>
+            <div class="item"><img src="images/slider/slikhuset_slik.jpg" alt="Slide 1"/></div>
+            <div class="item"><img src="images/slider/slikhuset_softice.jpg" alt="Slide 2"></div>
         </div>
-        <div class="slide-content pt-100">
+        <div class="slide-content">
+            <div class="voffset100"></div>
+
+            <span class="logointro"></span>
+
             <div id="owl-main-text" class="owl-carousel">
                 <div class="item">
                     <h2>Slikhuset Horsens</h2>

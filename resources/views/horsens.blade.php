@@ -51,6 +51,7 @@
 
 
                 <div class="col-md-6 jt_col column_container">
+                    <div class="voffset40"></div>
                     <p class="text">
                         Velkommen til Slikhuset, Horsens' største bland-selv slikbutik, beliggende centralt på Søndergade, lige midt i Horsens.
                         Her i Slikhuset har vi 400 forskellige slags bland-selv slik fra bl.a. Haribo, Toms og Malaco, samt forskellige slik-og bolcheposer, chokoladebarer og slikkepinde.
@@ -63,7 +64,12 @@
                 <div class="col-md-6 jt_col column_container">
                     <div class="voffset40"></div>
                     <div id="owl-about" class="owl-carousel">
-
+                        <div class="item">
+                            <img src="/images/slider/slikhuset_ude.jpg" alt=""/>
+                        </div>
+                        <div class="item">
+                            <img src="/images/slider/slikhuset_indefor.jpg" alt=""/>
+                        </div>
                     </div>
                 </div>
             </div>

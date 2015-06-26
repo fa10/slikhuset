@@ -579,12 +579,12 @@ a:hover {text-decoration: none;}
 
 .logointro {
 	display: block;
-		width: 322px;
-		height: 275px;
-		background:url("");
+		width: 327px;
+		height: 200px;
+		background:url("../images/logo_trans.png");
 		background-repeat: no-repeat;
-		margin:-42px auto;
-		margin-bottom: 42px;
+		margin:-22px auto;
+		margin-bottom: 22px;
 		content: " ";
 		-webkit-transition: all 0.5s ease;
 		-o-transition: all 0.5s ease;
@@ -1974,7 +1974,7 @@ img {
 		margin-top: -100px;
 	}
 	#header {top:0px;}
-	.logointro img {width: 250px;}
+	.logointro img {width: 327px;}
 	#owl-main .owl-prev, #owl-main .owl-next {display: none;}
 	.modal-form {
 		width: 600px;
@@ -2623,8 +2623,8 @@ section.menu .title:before, section.menu .title:after {
 }
 
 .logointro {
-		width: 160px;
-		height: 137px;
+		width: 332px;
+		height: 170px;
 		background-size: cover;
 		margin-top: 160px;
 		margin-bottom: 10px;
