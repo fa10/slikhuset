@@ -660,7 +660,7 @@ a:hover {text-decoration: none;}
 		margin-top:0px;
 	}
 		#owl-main-text h2 {
-			font-family: 'Oswald', sans-serif;
+			font-family: "Times New Roman", Georgia, Serif;
 			font-size: 65px;
 			text-align: center;
 			color: #fff;
@@ -674,7 +674,7 @@ a:hover {text-decoration: none;}
 			color: #fff;
 			text-align: center;
 			font-weight: 300;
-			font-family: 'BitterRegular', serif;
+			font-family: "Times New Roman", Georgia, Serif;
 			position: relative;
 			left: 0px;
 			width: 100%;
@@ -918,7 +918,7 @@ section.dark textarea{
    ============================== */
 
 section.timetable {
-	background-image: url("../images/parallax/opening_hours.jpg");
+	background-image: url("../images/parallax/parallex_open.jpg");
 
 	padding-top: 30px;
 	padding-bottom: 40px;
@@ -2889,7 +2889,7 @@ span.dark {
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) { 
     /* Retina-specific stuff here */
     section.timetable{
-		background: url("../images/parallax/opening_hours.jpg");
+		background: url("../images/parallax/slikhuset_openhours.jpg");
 		background-size: cover;
 		/* custom background-position */
     	background-position:50% 50%;

@@ -14,7 +14,7 @@
 
             <div id="owl-main-text" class="owl-carousel">
                 <div class="item">
-                    <h2>Slikhuset Horsens</h2>
+                    <h2>Halløj</h2>
                 </div>
                 <div class="item">
                     <h2>Slikhuset Kolding</h2>
@@ -41,13 +41,63 @@
             </div>
             @foreach ($posts as $post)
                 <div class="col-md-4">
-                    <h3>{{ $post->title }}</h3>
+                    <h3>{{ $post->title }} Æ</h3>
                     <p>{{ $post->content }}</p>
                     <img class="img-responsive" src="/images/post/{{ $post->imageUrl }}" alt=""/>
                 </div>
             @endforeach
 
 
+        </div>
+    </div>
+</section>
+@endsection
+
+@section('parallex')
+
+<section class="section timetable parallax">
+    <div class="container">
+        <div class="jt_row jt_row-fluid row">
+            <div class="col-md-12 jt_col column_container">
+                <h2 class="section-title"></span><span class="opening-hours">Åbningstider</span></h2>
+            </div>
+
+            <div class="col-md-3 jt_col column_container">
+                <div class="section-subtitle days">
+                    {{ trans('text.montowed') }}
+                </div>
+                <div class="section-subtitle hours">
+                    11:00<br>20:00
+                </div>
+            </div>
+
+            <div class="col-md-3 jt_col column_container">
+                <div class="section-subtitle days">
+                    Torsdag
+                </div>
+                <div class="section-subtitle hours">
+                    11:00<br>21:00
+                </div>
+            </div>
+
+
+            <div class="col-md-3 jt_col column_container">
+                <div class="section-subtitle days">
+                    Fredag til Lørdag
+                </div>
+                <div class="section-subtitle hours">
+                    11:00<br>22:00
+                </div>
+            </div>
+
+            <div class="col-md-3 jt_col column_container">
+                <div class="section-subtitle days">
+                    Søndag
+                </div>
+                <div class="section-subtitle hours">
+                    11:00<br>21:00
+                </div>
+            </div>
         </div>
     </div>
 </section>
