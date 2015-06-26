@@ -5,7 +5,7 @@
     <!-- META TAGS -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <meta name="description" content="Slikhuset i Horsens og Kolding. I Slikhuset kan du finde lige hvad du har lyst. Danmarks største udvalg af slik, sodavand og is." />
+    <meta name="description" content="Velkommen til Slikhuset, Horsens' & Kolding st&oslash;rste bland-selv slikbutik, beliggende centralt. Her i Slikhuset har vi 400 forskellige slags bland-selv slik fra bl.a. Haribo, Toms og Malaco, samt forskellige slik-og bolcheposer, chokoladebarer og slikkepinde." />
     <meta name="keywords" content="" />
     <meta name="robots" content="index, follow" />
 

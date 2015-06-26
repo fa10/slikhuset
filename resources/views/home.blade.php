@@ -60,7 +60,7 @@
     <div class="container">
         <div class="jt_row jt_row-fluid row">
             <div class="col-md-12 jt_col column_container">
-                <h2 class="section-title"></span><span class="opening-hours">Åbningstider</span></h2>
+                <h2 class="section-title"></span><span class="opening-hours">&Aring;bningstider</span></h2>
             </div>
 
             <div class="col-md-3 jt_col column_container">
@@ -84,7 +84,7 @@
 
             <div class="col-md-3 jt_col column_container">
                 <div class="section-subtitle days">
-                    Fredag til Lørdag
+                    Fredag til L&oslash;rdag
                 </div>
                 <div class="section-subtitle hours">
                     11:00<br>22:00
@@ -93,7 +93,7 @@
 
             <div class="col-md-3 jt_col column_container">
                 <div class="section-subtitle days">
-                    Søndag
+                    S&oslash;ndag
                 </div>
                 <div class="section-subtitle hours">
                     11:00<br>21:00

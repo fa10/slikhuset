@@ -54,10 +54,10 @@
                 <div class="col-md-6 jt_col column_container">
                     <div class="voffset40"></div>
                     <p class="text">
-                        Velkommen til Slikhuset, Horsens' største bland-selv slikbutik, beliggende centralt på Søndergade, lige midt i Horsens.
+                        Velkommen til Slikhuset, Horsens' st&oslash;rste bland-selv slikbutik, beliggende centralt p&aring; S&oslash;ndergade, lige midt i Horsens.
                         Her i Slikhuset har vi 400 forskellige slags bland-selv slik fra bl.a. Haribo, Toms og Malaco, samt forskellige slik-og bolcheposer, chokoladebarer og slikkepinde.
-                        Derudover har vi også en masse forskellige drikkevarer i form af sodavande, heriblandt Cherry Coke, Vanilla Coke og Dr. Pepper, samt energidrikke, vitamindrikke og kildevand.
-                        I sommerperioden tilbyder vi også slush-ice, forskellige slags is, soft ice, samt gammeldags isvafler.
+                        Derudover har vi ogs&aring; en masse forskellige drikkevarer i form af sodavande, heriblandt Cherry Coke, Vanilla Coke og Dr. Pepper, samt energidrikke, vitamindrikke og kildevand.
+                        I sommerperioden tilbyder vi ogs&aring; slush-ice, forskellige slags is, soft ice, samt gammeldags isvafler.
                     </p>
                     <div class="ornament"></div>
                 </div>
