@@ -85,7 +85,7 @@ a:hover {text-decoration: none;}
    ============================== */
 
 #mask {
-    background-color: #000000;
+    background-color: white;
     height: 100%;
     position: fixed;
     width: 100%;
@@ -198,8 +198,8 @@ a:hover {text-decoration: none;}
 	#header.overflow .menu-item a {
 		font-size: 14px;
 		line-height: 21px;
+		font-weight: 600;
 		color: #818181;
-		font-weight: 400;
 	}
 	
 	#header.overflow .navbar-nav > li {padding-bottom:13px;}

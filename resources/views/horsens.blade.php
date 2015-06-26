@@ -19,6 +19,7 @@
         }
 
         #header .menu-item a {
+
             color: #818181;
         }
 
