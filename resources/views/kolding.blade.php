@@ -51,11 +51,11 @@
 
 
             <div class="col-md-6 jt_col column_container">
-                <h2 class="heading font-smoothing">Beliggenhed</h2>
                 <p class="text">
-                    Afdelingen i <strong>Horsens</strong> har en meget central beliggenhed.
-                    Med vores store udvalg af alle slags slik, is, chokolade og drikkevare
-                    kan du finde lige hvad der passer dig og har lyst til.
+                    Velkommen til Slikhuset, <strong>Kolding</strong>' største bland-selv slikbutik, beliggende centralt.
+                    Her i Slikhuset har vi 400 forskellige slags bland-selv slik fra bl.a. Haribo, Toms og Malaco, samt forskellige slik-og bolcheposer, chokoladebarer og slikkepinde.
+                    Derudover har vi også en masse forskellige drikkevarer i form af sodavande, heriblandt Cherry Coke, Vanilla Coke og Dr. Pepper, samt energidrikke, vitamindrikke og kildevand.
+                    I sommerperioden tilbyder vi også slush-ice, forskellige slags is, soft ice, samt gammeldags isvafler.
                 </p>
                 <div class="ornament"></div>
             </div>
