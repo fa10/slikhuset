@@ -9,7 +9,8 @@
     <meta name="keywords" content="" />
     <meta name="robots" content="index, follow" />
 
-    <link href='//fonts.googleapis.com/css?family=Yellowtail%7cCabin:400,500,600,700,400italic,700italic%7cLibre+Baskerville:400italic%7cGreat+Vibes%7cOswald:400,300,700%7cOpen+Sans:600italic,700' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Bitter:400,700|Lobster+Two:400,700,400italic,700italic|Oswald:400,700' rel='stylesheet' type='text/css'>
+
     <!-- CSS STYLESHEETS -->
     <link rel="stylesheet" href="/css/all.css" />
     <script src="/js/all.js"></script>

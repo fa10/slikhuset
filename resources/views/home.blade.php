@@ -14,7 +14,7 @@
 
             <div id="owl-main-text" class="owl-carousel">
                 <div class="item">
-                    <h2>Halløj</h2>
+                    <h2>Slikhuset Horsens</h2>
                 </div>
                 <div class="item">
                     <h2>Slikhuset Kolding</h2>
@@ -41,7 +41,7 @@
             </div>
             @foreach ($posts as $post)
                 <div class="col-md-4">
-                    <h3>{{ $post->title }} Æ</h3>
+                    <h3>{{ $post->title }}</h3>
                     <p>{{ $post->content }}</p>
                     <img class="img-responsive" src="/images/post/{{ $post->imageUrl }}" alt=""/>
                 </div>

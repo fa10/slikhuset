@@ -10133,6 +10133,7 @@ button.close {
 
 -------------------------------------------------------------------*/
 
+@import url('//fonts.googleapis.com/css?family=Bitter');
 
 /* ==============================
    1. Fixes
@@ -10181,49 +10182,6 @@ a:hover {text-decoration: none;}
 .text-right {text-align: right;}
 .text-center {text-align: center;}
 .text-left {text-align:left;}
-
-
-/* ==============================
-   3. Custom fonts
-   ============================== */
-
-@font-face {
-    font-family: Bitter;
-    src: url(../fonts/Bitter-Bold.otf);
-}
-
-@font-face {
-    font-family: BitterRegular;
-    src: url(../fonts/Bitter-Regular.otf);
-}
-
-@font-face {
-    font-family: BitterItalic;
-    src: url(../fonts/Bitter-Italic.otf);
-}
-
-@font-face {
-    font-family: AlfaSlab;
-    src: url(../fonts/AlfaSlabOne-Regular.ttf);
-}
-
-@font-face {
-    font-family: LobsterTwo;
-    src: url(../fonts/LobsterTwo-Regular.otf);
-}
-@font-face {
-    font-family: LobsterTwoBold;
-    src: url(../fonts/LobsterTwo-Bold.otf);
-}
-@font-face {
-    font-family: LobsterTwoItalic;
-    src: url(../fonts/LobsterTwo-Italic.otf);
-}
-@font-face {
-    font-family: LobsterTwoBoldItalic;
-    src: url(../fonts/LobsterTwo-BoldItalic.otf);
-}
-
 
 /* ==============================
    4. Page loader
@@ -10416,6 +10374,7 @@ a:hover {text-decoration: none;}
 		color:#818181;
 		text-transform: uppercase;
 		font-size: 14px;
+		font-weight: 700;
 		font-family: 'Bitter', sans-serif;
 		line-height: 6px;
 		border-bottom:3px solid transparent;
@@ -10763,7 +10722,7 @@ a:hover {text-decoration: none;}
 		margin-top:0px;
 	}
 		#owl-main-text h2 {
-			font-family: "Times New Roman", Georgia, Serif;
+			font-family: 'Oswald';
 			font-size: 65px;
 			text-align: center;
 			color: #fff;
@@ -10777,7 +10736,7 @@ a:hover {text-decoration: none;}
 			color: #fff;
 			text-align: center;
 			font-weight: 300;
-			font-family: "Times New Roman", Georgia, Serif;
+			font-family: 'Bitter';
 			position: relative;
 			left: 0px;
 			width: 100%;
@@ -10941,7 +10900,7 @@ section.dark textarea{
 
 		h2.section-title {
 			text-align: center;
-			font-family: "BitterRegular";
+			font-family: 'Bitter', serif;
 			font-weight: 400;
 			font-size: 28px;
 			color:#383733;
@@ -10958,7 +10917,7 @@ section.dark textarea{
 
 		.section-subtitle {
 			text-align: center;
-			font-family: "BitterRegular";
+			font-family: 'Bitter', serif;
 			font-size: 16px;
 			color:#777777;
 			margin-bottom: 60px;
@@ -10988,7 +10947,7 @@ section.dark textarea{
 		}
 
 		p.text {
-			font-family: "BitterRegular", sans-serif;
+			font-family: 'Bitter', serif;
 			font-size: 17px;
 			font-weight: 400;
 			color: #777777;
@@ -11075,7 +11034,7 @@ section.timetable h2.section-title:before, section.timetable h2.section-title:af
 
 section.timetable .section-subtitle {
 	color: #dd0301;
-	font-family: "BitterRegular";
+	font-family: 'Bitter', serif;
 	font-style: italic;
 	font-size: 20px;
 	margin-bottom: 15px;
@@ -11083,7 +11042,7 @@ section.timetable .section-subtitle {
 }
 
 section.timetable .days {
-	font-family: "LobsterTwoItalic", serif;
+	font-family: 'Lobster Two', cursive;
 	font-size: 43px;
 	line-height: 48px;
 	margin-top: -20px;
@@ -11135,16 +11094,6 @@ section.menu {
 	background-position: top left, top right;
 	background-repeat: no-repeat;
 	min-height: 950px;
-}
-
-section.menu h3{
-	text-transform: uppercase;
-	text-align: center;
-	color: #773f23;
-	font-family: "AlfaSlab", sans-serif;
-	font-size: 24px;
-	font-weight: 400;
-	margin-bottom: 33px;
 }
 
 section.menu ul{
@@ -11209,7 +11158,7 @@ section.menu ul li .detail{
 	color: #484745;
 	font-size: 14px;
 	font-weight: 300;
-	font-family: "BitterRegular", sans-serif;
+	font-family: 'Bitter', serif;
 
 }
 
@@ -11240,7 +11189,7 @@ a.button, .button{
 	display: block;
 	
 	margin: 0 auto;
-	font-family: "BitterRegular", sans-serif;
+	font-family: 'Bitter', serif;
 	font-weight: 700;
 	text-transform: uppercase;
 	text-align: center;
@@ -11266,7 +11215,7 @@ a.button:hover, .button:hover {
 a.button.menu, .button.menu{
 	display: block;
 	margin: 0 auto;
-	font-family: "BitterRegular", sans-serif;
+	font-family: 'Bitter', serif;
 	font-weight: 500;
 	text-transform: uppercase;
 	text-align: center;
@@ -11334,7 +11283,7 @@ section.reservations{
 }
 
 section.reservations h4{
-	font-family: "BitterItalic";
+	font-family: 'Bitter', serif;
 	font-size: 19px;
 	color: #c02530;
 	text-align: center;
@@ -11377,7 +11326,6 @@ section.reservations h3 {
 	text-transform: uppercase;
 	color: #773f23;
 	text-align: center;
-	font-family: "AlfaSlab",sans-serif;
 	font-size: 48px;
 	font-weight: 400;
 	margin: 20px 0px 20px 0px;
@@ -11390,7 +11338,7 @@ section.reservations h3.reservation-phone{
 }
 
 section.reservations p {
-	font-family: "BitterRegular", sans-serif;
+	font-family: 'Bitter', serif;
 	font-weight: 500;
 	color: #7d7a7a;
 	font-size: 18px;
@@ -11400,7 +11348,7 @@ section.reservations p {
 
 section.reservations .contact-form p{
 	text-align: left;
-	font-family: "BitterRegular";
+	font-family: 'Bitter', serif;
 	color: #c02530;
 	font-size: 1.4em;
 
@@ -11490,7 +11438,7 @@ section.testimonials {
 
 section.testimonials h2 {
 	text-align: left;
-	font-family: "BitterRegular", sans-serif;
+	font-family: 'Bitter', serif;
 	font-weight: 300;
 	font-size: 2em;
 	color: #CB0834;
@@ -11500,7 +11448,7 @@ section.testimonials h2 {
 
 section.testimonials h2 span {
 	position: absolute;
-	font-family: Bitter;
+	font-family: 'Bitter', serif;
 	right: 0;
 	font-weight: 700;
 	font-size: 72px;
@@ -11523,7 +11471,7 @@ section.testimonials h2:before, section.testimonials h2:after {
 }
 
 .item p{
-	font-family: "BitterRegular", sans-serif;
+	font-family: 'Bitter', serif;
 	text-align: left;
 	font-weight: 400;
 	color: #e2e9ed;
