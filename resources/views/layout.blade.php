@@ -12,6 +12,8 @@
     <meta name="keywords" content="" />
     <meta name="robots" content="index, follow" />
 
+    <link rel="shortcut icon" href="{{ asset('images/favicon-16x16.png') }}">
+
     <link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-icon-180x180.png">
 
     <!-- CSS STYLESHEETS -->

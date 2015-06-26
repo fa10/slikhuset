@@ -6,7 +6,7 @@
         <div id="owl-main" class="owl-carousel">
             <div class="item"><img src="images/slider/softice_slikhuset.png" alt="Slide 02"></div>
         </div>
-        <div class="slide-content">
+        <div class="slide-content pt-100">
             <div id="owl-main-text" class="owl-carousel">
                 <div class="item">
                     <h2>Slikhuset Horsens</h2>
@@ -45,6 +45,5 @@
 
         </div>
     </div>
-
 </section>
 @endsection
