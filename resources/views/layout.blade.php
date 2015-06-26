@@ -8,12 +8,12 @@
     <!-- META TAGS -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-    <meta name="description" content="" />
+    <meta name="description" content="Slikhuset i Horsens og Kolding. I Slikhuset kan du finde lige hvad du har lyst. Danmarks største udvalg af slik, sodavand og is." />
     <meta name="keywords" content="" />
     <meta name="robots" content="index, follow" />
 
     <link rel="shortcut icon" href="{{ asset('/favicon.ico') }}">
-    
+
     <!-- CSS STYLESHEETS -->
     <link rel="stylesheet" href="/css/all.css" />
     <script src="/js/all.js"></script>
