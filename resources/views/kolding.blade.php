@@ -63,7 +63,19 @@
             <div class="col-md-6 jt_col column_container">
                 <div id="owl-about" class="owl-carousel">
                     <div class="item">
-                        <img src="/images/slider/slikhuset_inde.jpg" alt=""/>
+                        <img src="/images/slider/Slikhuset_Kolding1.jpg" alt=""/>
+                    </div>
+                    <div class="item">
+                        <img src="/images/slider/slikhuset_kolding2.jpg" alt=""/>
+                    </div>
+                    <div class="item">
+                        <img src="/images/slider/slikhuset_koldingude.jpg" alt="">
+                    </div>
+                    <div class="item">
+                        <img src="/images/slider/guldmønter.jpg" alt=""/>
+                    </div>
+                    <div class="item">
+                        <img src="/images/slider/stærkslik.jpg" alt=""/>
                     </div>
                 </div>
             </div>
